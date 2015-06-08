@@ -41,6 +41,7 @@ Cool tech/geek things in Portland Oregon.
 * [AWS Portland](http://www.meetup.com/AWS-Portland/) - discuss AWS, the magical cloud.
 * [Girl Develop It Portland](http://www.meetup.com/Girl-Develop-It-Portland) - language-agnostic meetup focused on learning to code 
 * [Hacks/Hackers Portland](http://www.meetup.com/HacksHackersPDX/) - #needsdescription
+* [MaptimePDX](http://maptime.io/portland/) - Monthly meetup for map enthusiasts of all levels
 * [New Relic Futuretalks](http://www.meetup.com/New-Relic-FutureTalks-PDX/) - speaker series by New Relic at the top of Big Pink
 * [PDX Python](http://www.meetup.com/pdxpython/) - includes a "programmer peer mentoring night" and monthly presentations
 * [PyLadies PDX](http://www.meetup.com/PyLadies-PDX/) - weekly meetups for women 
