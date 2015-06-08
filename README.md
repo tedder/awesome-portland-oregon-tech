@@ -1,8 +1,9 @@
 # awesome-portland-oregon-tech
 Cool tech/geek things in Portland Oregon.
 
-## Non-tech pointers
+## Non-tech pointers to other lists
 
+* [Awesome](https://github.com/sindresorhus/awesome/blob/master/readme.md) - the canonical list of awesome lists
 * [Awesome Portland Oregon]() - nontech resources for locals and tourists
 
 ## Blogs and forums
@@ -49,4 +50,8 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * New Relic
 * Simple
 * Quick Left
+
+## License
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
