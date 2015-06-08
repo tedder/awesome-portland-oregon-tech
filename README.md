@@ -1,6 +1,11 @@
 # awesome-portland-oregon-tech
 Cool tech/geek things in Portland Oregon.
 
+<!-- notes/rules:
+* it's okay to have the same link in two sections.
+* please help by adding context to existing entries.
+-->
+
 ## Non-tech pointers to other lists
 
 * [Awesome](https://github.com/sindresorhus/awesome/blob/master/readme.md) - the canonical list of awesome lists
@@ -37,8 +42,17 @@ Cool tech/geek things in Portland Oregon.
 * [Hacks/Hackers Portland](http://www.meetup.com/HacksHackersPDX/) - #needsdescription
 * [New Relic Futuretalks](http://www.meetup.com/New-Relic-FutureTalks-PDX/) - speaker series by New Relic at the top of Big Pink
 * [PDX Python](http://www.meetup.com/pdxpython/) - includes a "programmer peer mentoring night" and monthly presentations
+* [PyLadies PDX](http://www.meetup.com/PyLadies-PDX/)
 * [Techies on Bikes](http://www.meetup.com/Techies-On-Bikes/) - #needsdescription
 * [Workfrom Portland](http://www.meetup.com/workfrom-portland/) - casual weekly coffeeshop meetups for remote workers (including techies and creatives)
+* [Women Who Code Portland](http://www.meetup.com/Women-Who-Code-Portland/)
+
+## Women/minority in tech resources
+
+* [ChickTECH Portland](http://portland.chicktech.org/)
+* [PDX Women in Tech](http://www.pdxwit.org/)
+* [PyLadies PDX](http://www.pyladies.com/locations/pdx/) ([@PyLadies_PDX](https://twitter.com/PyLadies_pdx), [meetup](http://www.meetup.com/PyLadies-PDX/), [github](https://github.com/pyladiespdx))
+* [Women Who Code Portland meetup](http://www.meetup.com/Women-Who-Code-Portland/)
 
 ## Industry luminaries
 
