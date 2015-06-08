@@ -14,7 +14,7 @@ Cool tech/geek things in Portland Oregon.
 
 ## Calendars 
 
-* [Calagator](http://calagator.org/): unified calendar for the tech community
+* [Calagator](http://calagator.org/) - unified calendar for the tech community
 
 ## Physical spaces
 
