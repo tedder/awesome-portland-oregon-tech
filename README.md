@@ -19,8 +19,9 @@ Cool tech/geek things in Portland Oregon.
 
 ## Big Yearly Events
 
-* Open Source Bridge, aka OSBRIDGE
-* OSCON
+* [Open Source Bridge, aka OSBRIDGE](http://opensourcebridge.org/)
+* [OSCON](http://www.oscon.com/)
+* [PyCon](https://us.pycon.org) (2016 and 2017) 
 
 
 ## Meetups
@@ -50,6 +51,8 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * New Relic
 * Simple
 * Quick Left
+* [Treehouse](https://teamtreehouse.com/jobs) 
+* [Puppet Labs](https://puppetlabs.com/contact)
 
 ## License
 
