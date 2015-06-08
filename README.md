@@ -62,8 +62,9 @@ This section should contain names (and especially Twitter accounts) of Portlande
 
 * Amber Case, [@caseorganic](https://twitter.com/caseorganic), human-computer interaction, geo, "[We are all cyborgs now](http://www.ted.com/talks/amber_case_we_are_all_cyborgs_now)"
 * Andy Baio [@waxpancake](https://twitter.com/waxpancake), creator of XOXO, early Kickstarter techie, [waxy.org](http://waxy.org/),  lots of brilliant projects.
+* -* Selena Deckelmann, [@selenamarie](https://twitter.com/selenamarie), [blog](http://www.chesnok.com/daily/), PyLadies, Open Source Bridge, Ada Initiative, Mozilla. [Willamette Week article](http://www.wweek.com/portland/article-21189-hotseat_selena_deckelmann.html), [Geek Feminism Wiki entry](http://geekfeminism.wikia.com/wiki/Selena_Deckelmann).
 
-## Bootcamps 
+## Bootcamps and Education
 
 * [PDX Code Guild](https://pdxcodeguild.com/) - teaches Python
 
