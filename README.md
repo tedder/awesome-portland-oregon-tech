@@ -12,6 +12,10 @@ Cool tech/geek things in Portland Oregon.
 * [PDX Startups Switchboard](https://pdxstartups.switchboardhq.com/) - great "ask and offer" forum
 * [Silicon Florist](http://siliconflorist.com/) - longrunning blog covering startups and tech
 
+## Calendars 
+
+* [Calagator](http://calagator.org/): unified calendar for the tech community
+
 ## Physical spaces
 
 * [workfrom.co Portland](https://workfrom.co/portland) - coffeeshops and meeting spaces that are remote-worker-friendly. [Discounts](https://workfrom.co/worker#deals), [meetups](http://www.meetup.com/workfrom-portland/), and [realtime occupancy](https://workfrom.co/portland/real-time-density) too.
@@ -47,10 +51,10 @@ This section should contain names (and especially Twitter accounts) of Portlande
 
 <!-- link to homepage plus page indicating they are at least partially Portland-based, such as a 'contact' page listing their address -->
 
-* Mozilla
-* New Relic
-* Simple
-* Quick Left
+* [Mozilla](https://www.mozilla.org/en-US/contact/spaces/portland/)
+* [New Relic](http://newrelic.com/about/contact-us)
+* [Simple](https://www.simple.com/careers)
+* [Quick Left](https://quickleft.com/) 
 * [Treehouse](https://teamtreehouse.com/jobs) 
 * [Puppet Labs](https://puppetlabs.com/contact)
 
