@@ -64,6 +64,7 @@ These don't appear to have future events scheduled in Portland.
 * [Ansible Portland](http://www.meetup.com/Ansible-Portland/) - monthly meetup for Ansible (configuration management) peeps
 * [AWS Portland](http://www.meetup.com/AWS-Portland/) - discuss AWS, the magical cloud.
 * [Code for Portland](http://www.meetup.com/CodeForPortland/) - We're uniting hackers with the city, and working on projects that make a difference in our communities.
+* [Coffee w/ Co-Founders](http://www.meetup.com/Portland-Coffee-w-Co-Founders/) - Monthly meetup for area Co-Founders
 * [Computer-Human Interaction Forum of Oregon](http://www.chifoo.org/) - aka CHIFOO. #needsdescription
 * [Girl Develop It Portland](http://www.meetup.com/Girl-Develop-It-Portland) - language-agnostic meetup focused on learning to code 
 * [Hacks/Hackers Portland](http://www.meetup.com/HacksHackersPDX/) - #needsdescription
@@ -129,6 +130,7 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * [Treehouse](https://teamtreehouse.com/jobs) - tech education, especially related to web/app development. [Oregonlive news article](http://www.oregonlive.com/silicon-forest/index.ssf/2013/12/portland_startup_treehouse_eli.html); [Wikipedia article](https://en.wikipedia.org/wiki/Treehouse_(company)).
 * [Jama Software](https://www.jamasoftware.com/)
 * [Esri R&D Center](http://pdx.esri.com/)
+* [Plunk](http://whoisplunk.com) - Digital Marketing Agency. Mobile/Web Development Firm
 
 ## Tech recruiters/staffing
 
