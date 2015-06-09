@@ -83,6 +83,7 @@ This section should contain names (and especially Twitter accounts) of Portlande
 ## Bootcamps and Education
 
 * [PDX Code Guild](https://pdxcodeguild.com/) - teaches Python.
+* [Code Fellows](https://www.codefellows.org/)
 * [Treehouse](https://teamtreehouse.com/) - tech education, especially related to web/app development. [Oregonlive news article](http://www.oregonlive.com/silicon-forest/index.ssf/2013/12/portland_startup_treehouse_eli.html); [Wikipedia article](https://en.wikipedia.org/wiki/Treehouse_(company)).
 
 ## Portland tech businesses
