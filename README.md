@@ -51,6 +51,7 @@ These don't appear to have future events scheduled in Portland.
 
 * [Ansible Portland](http://www.meetup.com/Ansible-Portland/) - monthly meetup for Ansible (configuration management) peeps
 * [AWS Portland](http://www.meetup.com/AWS-Portland/) - discuss AWS, the magical cloud.
+* [Code for Portland](http://www.meetup.com/CodeForPortland/) - We're uniting hackers with the city, and working on projects that make a difference in our communities.
 * [Girl Develop It Portland](http://www.meetup.com/Girl-Develop-It-Portland) - language-agnostic meetup focused on learning to code 
 * [Hacks/Hackers Portland](http://www.meetup.com/HacksHackersPDX/) - #needsdescription
 * [MaptimePDX](http://maptime.io/portland/) - Monthly meetup for map enthusiasts of all levels
@@ -100,6 +101,7 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * [Quick Left](https://quickleft.com/) 
 * [Treehouse](https://teamtreehouse.com/jobs) - tech education, especially related to web/app development. [Oregonlive news article](http://www.oregonlive.com/silicon-forest/index.ssf/2013/12/portland_startup_treehouse_eli.html); [Wikipedia article](https://en.wikipedia.org/wiki/Treehouse_(company)).
 * [Jama Software](https://www.jamasoftware.com/)
+* [Esri R&D Center](http://pdx.esri.com/)
 
 ## License
 
