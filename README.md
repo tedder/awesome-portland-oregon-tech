@@ -36,6 +36,8 @@ Cool tech/geek things in Portland Oregon.
 * [PyCon](https://us.pycon.org) (2016 and 2017)
 * [WebVisions Portland](http://www.webvisionsevent.com/portland/) (May 2016)
 * [XOXO Festival](http://2015.xoxofest.com/)
+* [Monitorama](http://monitorama.com)
+* [PuppetConf](http://puppetconf.com)
 
 ### Previous events
 
@@ -68,7 +70,9 @@ These don't appear to have future events scheduled in Portland.
 * [PDX.rb](http://pdxruby.org/)
 * [PDXFunc](http://pdxfunc.org/)
 * [DorkbotPDX](http://dorkbotpdx.org/)
-* [Code for Portland](http://www.meetup.com/CodeForPortland/)
+* [Portland Puppet User Group](http://www.meetup.com/Portland-Puppet-User-Group/)
+* [pdx devops](http://pdxdevops.org)
+* [OpenStack Northwest User Group](http://www.meetup.com/OpenStack-Northwest/)
 
 ## Women/minority in tech resources
 
