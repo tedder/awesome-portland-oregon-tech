@@ -121,27 +121,27 @@ This section should contain names (and especially Twitter accounts) of Portlande
 
 <!-- link to JOBS PAGE, make sure there's an indication they are at least partially Portland-based, such as a 'contact' page listing their address -->
 
+* [Elemental Technologies](http://www.elementaltechnologies.com/company/careers/open-positions) - Video conversion and streaming hardware, software, and cloud platform systems.
+* [Esri R&D Center](http://pdx.esri.com/)
+* [FlightStats](http://flightstats.com/company/corporate/careers/) - Aviation information and data services, mobile and web based flight tracking apps.
+* [GlobeSherpa](http://www.globesherpa.com/jobs/) - Transit Ticketing mobile apps and services platform. Customers include TriMet and Portland Streetcar.
+* [Idealist](http://www.idealist.org/working-here) - Job and project listing services for NGOs, non-profits, etc.
+* [Jama Software](https://www.jamasoftware.com/)
+* [Jive](https://www.jivesoftware.com/about-jive/careers) - Social networking platforms for businesses.
 * [Jolby & Friends](http://jolbyandfriends.com)
+* [Kongregate](http://www.kongregate.com/pages/jobs) - Online gaming platform.
 * [Mozilla](https://www.mozilla.org/en-US/contact/spaces/portland/)
 * [New Relic](http://newrelic.com/about/contact-us)
-* [Portland Incubator Experiment](http://www.piepdx.com/) - run by Wieden+Kennedy, startup accelerator. [OreognLive article](http://www.oregonlive.com/silicon-forest/index.ssf/2015/03/portland_incubator_experiment_5.html); [Wikipedia article](https://en.wikipedia.org/wiki/Portland_Incubator_Experiment).
-* [Puppet Labs](https://puppetlabs.com/contact)
-* [Urban Airship](https://urbanairship.com/careers/)
-* [Simple](https://www.simple.com/careers)
-* [Quick Left](https://quickleft.com/) 
-* [Treehouse](https://teamtreehouse.com/jobs) - tech education, especially related to web/app development. [Oregonlive news article](http://www.oregonlive.com/silicon-forest/index.ssf/2013/12/portland_startup_treehouse_eli.html); [Wikipedia article](https://en.wikipedia.org/wiki/Treehouse_(company)).
-* [Jama Software](https://www.jamasoftware.com/)
-* [Esri R&D Center](http://pdx.esri.com/)
-* [Plunk](http://whoisplunk.com) - Digital Marketing Agency. Mobile/Web Development Firm
-* [Panic](http://www.panic.com/blog/) - Software developer of fine Mac and iOS software like Coda, Transmit, and Prompt.
-* [GlobeSherpa](http://www.globesherpa.com/jobs/) - Transit Ticketing mobile apps and services platform. Customers include TriMet and Portland Streetcar.
-* [Elemental Technologies](http://www.elementaltechnologies.com/company/careers/open-positions) - Video conversion and streaming hardware, software, and cloud platform systems.
-* [FlightStats](http://flightstats.com/company/corporate/careers/) - Aviation information and data services, mobile and web based flight tracking apps.
-* [Jive](https://www.jivesoftware.com/about-jive/careers) - Social networking platforms for businesses.
-* [Idealist](http://www.idealist.org/working-here) - Job and project listing services for NGOs, non-profits, etc.
-* [Kongregate](http://www.kongregate.com/pages/jobs) - Online gaming platform.
-* [Vadio](http://www.vadio.com/jobs) - Online video services.
 * [OnTheGo Platforms](https://www.otgplatforms.com/careers/) - Wearable computing platform systems.
+* [Portland Incubator Experiment](http://www.piepdx.com/) - run by Wieden+Kennedy, startup accelerator. [OreognLive article](http://www.oregonlive.com/silicon-forest/index.ssf/2015/03/portland_incubator_experiment_5.html); [Wikipedia article](https://en.wikipedia.org/wiki/Portland_Incubator_Experiment).
+* [Panic](http://www.panic.com/blog/) - Software developer of fine Mac and iOS software like Coda, Transmit, and Prompt.
+* [Plunk](http://whoisplunk.com) - Digital Marketing Agency. Mobile/Web Development Firm
+* [Puppet Labs](https://puppetlabs.com/contact)
+* [Quick Left](https://quickleft.com/) 
+* [Simple](https://www.simple.com/careers)
+* [Treehouse](https://teamtreehouse.com/jobs) - tech education, especially related to web/app development. [Oregonlive news article](http://www.oregonlive.com/silicon-forest/index.ssf/2013/12/portland_startup_treehouse_eli.html); [Wikipedia article](https://en.wikipedia.org/wiki/Treehouse_(company)).
+* [Urban Airship](https://urbanairship.com/careers/)
+* [Vadio](http://www.vadio.com/jobs) - Online video services.
 
 ## Tech recruiters/staffing
 
