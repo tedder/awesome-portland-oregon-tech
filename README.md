@@ -30,10 +30,13 @@ Cool tech/geek things in Portland Oregon.
 
 ## Big Yearly Events
 
+* [Delight](http://delight.us/conference/) (Oct 5-7 2015); [@DelightConf](https://twitter.com/delightconf)
 * [Open Source Bridge, aka OSBRIDGE](http://opensourcebridge.org/)
 * [OSCON](http://www.oscon.com/)
+* [Portland Design Week](http://www.designweekportland.com/) (April 15-16 2016); [@DesignWeekPDX](https://twitter.com/designweekpdx)
 * [Portland Mini Maiker Faire](https://www.omsi.edu/maker-faire-pdx) at OMSI (next: Sept 12-13 2015)
 * [PyCon](https://us.pycon.org) (2016 and 2017)
+* [TechFestNW](http://techfestnw.com/) (Aug 20-21 2015)
 * [WebVisions Portland](http://www.webvisionsevent.com/portland/) (May 2016)
 * [XOXO Festival](http://2015.xoxofest.com/)
 * [Monitorama](http://monitorama.com)
@@ -47,6 +50,11 @@ These don't appear to have future events scheduled in Portland.
 * TedX Portland
 * [WordCamp Portland](https://portland.wordcamp.org/2013/) - WordPress conference in 2013. [@wcpdx](https://twitter.com/wcpdx)
 * [Pacific NW Drupal Summit](http://2015.pnwdrupalsummit.org/) - Drupal conference in 2014. Next in Portland in 2017?
+
+## Groups
+
+* [PDX Tech](http://pdxtech.org/) networking group/mailing list; [@PDXTechnology](https://twitter.com/pdxtechnology)
+* [Technology Association of Oregon](http://www.techoregon.org/); [@TechOregon](https://twitter.com/techoregon)
 
 
 ## Meetups
@@ -121,6 +129,18 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * [Treehouse](https://teamtreehouse.com/jobs) - tech education, especially related to web/app development. [Oregonlive news article](http://www.oregonlive.com/silicon-forest/index.ssf/2013/12/portland_startup_treehouse_eli.html); [Wikipedia article](https://en.wikipedia.org/wiki/Treehouse_(company)).
 * [Jama Software](https://www.jamasoftware.com/)
 * [Esri R&D Center](http://pdx.esri.com/)
+
+## Tech recruiters/staffing
+
+* [52 Limited](http://52ltd.com/)
+* [Boly:Welch](http://bolywelch.com/)
+* [Dorigan & Associates](http://dorigan.com/)
+* [Mainz Brady Group](http://mainzbradygroup.com/)
+* [Mathys-Potestio](http://mathys-potestio.com/)
+* [Scion Technical Staffing](http://sciontechnical.com/)
+* [TEKsystems](http://www.teksystems.com/)
+* [Triad Technology Group](http://www.go2triad.com/)
+* [VanderHouwen & Associates](http://www.vanderhouwen.com/)
 
 ## License
 
