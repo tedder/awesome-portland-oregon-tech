@@ -80,8 +80,10 @@ These don't appear to have future events scheduled in Portland.
 * [PDXFunc](http://pdxfunc.org/)
 * [DorkbotPDX](http://dorkbotpdx.org/)
 * [Portland Puppet User Group](http://www.meetup.com/Portland-Puppet-User-Group/)
-* [pdx devops](http://pdxdevops.org)
+* [pdx devops](http://pdxdevops.org) - Presentations and discussions on Development Operations and related technologies.
+* [PDXCloud](http://www.meetup.com/PDXCloud/events/) - Presentations and group discussions on cloud technologies hosted at Elemental.
 * [OpenStack Northwest User Group](http://www.meetup.com/OpenStack-Northwest/)
+* [RainSec](https://groups.google.com/forum/#!forum/rainsec) - Informal meetup of security professionals in a non-work non-vendor setting.
 
 ## Women/minority in tech resources
 
@@ -131,6 +133,15 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * [Jama Software](https://www.jamasoftware.com/)
 * [Esri R&D Center](http://pdx.esri.com/)
 * [Plunk](http://whoisplunk.com) - Digital Marketing Agency. Mobile/Web Development Firm
+* [Panic](http://www.panic.com/blog/) - Software developer of fine Mac and iOS software like Coda, Transmit, and Prompt.
+* [GlobeSherpa](http://www.globesherpa.com/jobs/) - Transit Ticketing mobile apps and services platform. Customers include TriMet and Portland Streetcar.
+* [Elemental Technologies](http://www.elementaltechnologies.com/company/careers/open-positions) - Video conversion and streaming hardware, software, and cloud platform systems.
+* [FlightStats](http://flightstats.com/company/corporate/careers/) - Aviation information and data services, mobile and web based flight tracking apps.
+* [Jive](https://www.jivesoftware.com/about-jive/careers) - Social networking platforms for businesses.
+* [Idealist](http://www.idealist.org/working-here) - Job and project listing services for NGOs, non-profits, etc.
+* [Kongregate](http://www.kongregate.com/pages/jobs) - Online gaming platform.
+* [Vadio](http://www.vadio.com/jobs) - Online video services.
+* [OnTheGo Platforms](https://www.otgplatforms.com/careers/) - Wearable computing platform systems.
 
 ## Tech recruiters/staffing
 
