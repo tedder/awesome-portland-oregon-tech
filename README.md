@@ -17,9 +17,9 @@ Cool tech/geek things in Portland Oregon.
 * [PDX Startups Switchboard](https://pdxstartups.switchboardhq.com/) - great "ask and offer" forum
 * [Silicon Florist](http://siliconflorist.com/) - longrunning blog covering startups and tech
 
-## Calendars 
+## Calendars
 
-* [Calagator](http://calagator.org/) - unified calendar for the tech community
+* [Calagator](http://calagator.org/) - unified calendar for the tech community.
 
 ## Physical spaces
 
@@ -54,6 +54,7 @@ These don't appear to have future events scheduled in Portland.
 * [Ansible Portland](http://www.meetup.com/Ansible-Portland/) - monthly meetup for Ansible (configuration management) peeps
 * [AWS Portland](http://www.meetup.com/AWS-Portland/) - discuss AWS, the magical cloud.
 * [Code for Portland](http://www.meetup.com/CodeForPortland/) - We're uniting hackers with the city, and working on projects that make a difference in our communities.
+* [Computer-Human Interaction Forum of Oregon](http://www.chifoo.org/) - aka CHIFOO. #needsdescription
 * [Girl Develop It Portland](http://www.meetup.com/Girl-Develop-It-Portland) - language-agnostic meetup focused on learning to code 
 * [Hacks/Hackers Portland](http://www.meetup.com/HacksHackersPDX/) - #needsdescription
 * [MaptimePDX](http://maptime.io/portland/) - Monthly meetup for map enthusiasts of all levels
@@ -95,6 +96,11 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * [PDX Code Guild](https://pdxcodeguild.com/) - teaches Python.
 * [Code Fellows](https://www.codefellows.org/)
 * [Treehouse](https://teamtreehouse.com/) - tech education, especially related to web/app development. [Oregonlive news article](http://www.oregonlive.com/silicon-forest/index.ssf/2013/12/portland_startup_treehouse_eli.html); [Wikipedia article](https://en.wikipedia.org/wiki/Treehouse_(company)).
+
+## Lists
+* [Oregon Startups](http://www.oregonstartups.com/) - startup resources (office space, lawyers, networking, microloans).
+* [Portland's Business Incubators and Accelerators](https://impactentrepreneurs.wordpress.com/2014/04/04/portlands-business-incubators-and-accelerators/) - blog post with a large list of incubators and resources for startups.
+
 
 ## Portland tech businesses
 
