@@ -60,6 +60,7 @@ These don't appear to have future events scheduled in Portland.
 * [Techies on Bikes](http://www.meetup.com/Techies-On-Bikes/) - #needsdescription
 * [Workfrom Portland](http://www.meetup.com/workfrom-portland/) - casual weekly coffeeshop meetups for remote workers (including techies and creatives)
 * [Women Who Code Portland](http://www.meetup.com/Women-Who-Code-Portland/)
+* [Portland ReactJS](http://www.meetup.com/Portland-ReactJS)
 
 ## Women/minority in tech resources
 
