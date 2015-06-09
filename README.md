@@ -88,7 +88,7 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * Max Ogden, [@maxogden](https://twitter.com/maxogden) #needsdescription
 * Selena Deckelmann, [@selenamarie](https://twitter.com/selenamarie), [blog](http://www.chesnok.com/daily/), PyLadies, Open Source Bridge, Ada Initiative, Mozilla. [Willamette Week article](http://www.wweek.com/portland/article-21189-hotseat_selena_deckelmann.html), [Geek Feminism Wiki entry](http://geekfeminism.wikia.com/wiki/Selena_Deckelmann).
 * Ward Cunningham, [@wardcunningham](https://twitter.com/wardcunningham), [personal pages](http://c2.com/~ward/), [Wikipedia](http://en.wikipedia.org/wiki/Ward_Cunningham) - inventor of the wiki, XP pioneer
-* Steven Frank [@stevenf] + Cabel Sasser [@cabel], co-founders of [Panic, Inc.](https://panic.com/)
+* Steven Frank [@stevenf](https://twitter.com/stevenf) + Cabel Sasser [@cabel](https://twitter.com/cabel), co-founders of [Panic, Inc.](https://panic.com/)
 
 ## Bootcamps and Education
 
