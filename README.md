@@ -25,6 +25,7 @@ Cool tech/geek things in Portland Oregon.
 
 * [OMSI](https://www.omsi.edu/) - our science museum, lots of events and cool things for adults and kids and a submarine.
 * [workfrom.co Portland](https://workfrom.co/portland) - coffeeshops and meeting spaces that are remote-worker-friendly. [Discounts](https://workfrom.co/worker#deals), [meetups](http://www.meetup.com/workfrom-portland/), and [realtime occupancy](https://workfrom.co/portland/real-time-density) too.
+* [XOXOPDX](http://xoxopdx.com/) - coworking space coming soon from the XOXO team (related: see Andy Baio below)
 
 
 ## Big Yearly Events
@@ -34,6 +35,7 @@ Cool tech/geek things in Portland Oregon.
 * [Portland Mini Maiker Faire](https://www.omsi.edu/maker-faire-pdx) at OMSI (next: Sept 12-13 2015)
 * [PyCon](https://us.pycon.org) (2016 and 2017)
 * [WebVisions Portland](http://www.webvisionsevent.com/portland/) (May 2016)
+* [XOXO Festival](http://2015.xoxofest.com/)
 
 ### Previous events
 
@@ -62,6 +64,10 @@ These don't appear to have future events scheduled in Portland.
 * [Workfrom Portland](http://www.meetup.com/workfrom-portland/) - casual weekly coffeeshop meetups for remote workers (including techies and creatives)
 * [Women Who Code Portland](http://www.meetup.com/Women-Who-Code-Portland/)
 * [Portland ReactJS](http://www.meetup.com/Portland-ReactJS)
+* [PDX.rb](http://pdxruby.org/)
+* [PDXFunc](http://pdxfunc.org/)
+* [DorkbotPDX](http://dorkbotpdx.org/)
+* [Code for Portland](http://www.meetup.com/CodeForPortland/)
 
 ## Women/minority in tech resources
 
@@ -81,6 +87,8 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * Andy Baio [@waxpancake](https://twitter.com/waxpancake), creator of XOXO, early Kickstarter techie, [waxy.org](http://waxy.org/),  lots of brilliant projects.
 * Max Ogden, [@maxogden](https://twitter.com/maxogden) #needsdescription
 * Selena Deckelmann, [@selenamarie](https://twitter.com/selenamarie), [blog](http://www.chesnok.com/daily/), PyLadies, Open Source Bridge, Ada Initiative, Mozilla. [Willamette Week article](http://www.wweek.com/portland/article-21189-hotseat_selena_deckelmann.html), [Geek Feminism Wiki entry](http://geekfeminism.wikia.com/wiki/Selena_Deckelmann).
+* Ward Cunningham, [@wardcunningham](https://twitter.com/wardcunningham), [personal pages](http://c2.com/~ward/), [Wikipedia](http://en.wikipedia.org/wiki/Ward_Cunningham) - inventor of the wiki, XP pioneer
+* Steven Frank [@stevenf] + Cabel Sasser [@cabel], co-founders of [Panic, Inc.](https://panic.com/)
 
 ## Bootcamps and Education
 
@@ -97,6 +105,7 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * [New Relic](http://newrelic.com/about/contact-us)
 * [Portland Incubator Experiment](http://www.piepdx.com/) - run by Wieden+Kennedy, startup accelerator. [OreognLive article](http://www.oregonlive.com/silicon-forest/index.ssf/2015/03/portland_incubator_experiment_5.html); [Wikipedia article](https://en.wikipedia.org/wiki/Portland_Incubator_Experiment).
 * [Puppet Labs](https://puppetlabs.com/contact)
+* [Urban Airship](https://urbanairship.com/careers/)
 * [Simple](https://www.simple.com/careers)
 * [Quick Left](https://quickleft.com/) 
 * [Treehouse](https://teamtreehouse.com/jobs) - tech education, especially related to web/app development. [Oregonlive news article](http://www.oregonlive.com/silicon-forest/index.ssf/2013/12/portland_startup_treehouse_eli.html); [Wikipedia article](https://en.wikipedia.org/wiki/Treehouse_(company)).
