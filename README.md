@@ -71,6 +71,7 @@ These don't appear to have future events scheduled in Portland.
 * [MaptimePDX](http://maptime.io/portland/) - Monthly meetup for map enthusiasts of all levels; [@MaptimePDX](https://twitter.com/maptimepdx).
 * [New Relic Futuretalks](http://www.meetup.com/New-Relic-FutureTalks-PDX/) - speaker series by New Relic at the top of Big Pink
 * [PDX Python](http://www.meetup.com/pdxpython/) - includes a "programmer peer mentoring night" and monthly presentations
+* [PDX R](http://www.meetup.com/portland-r-user-group/) - monthly presentations
 * [PyLadies PDX](http://www.meetup.com/PyLadies-PDX/) - weekly meetups for women 
 * [Techies on Bikes](http://www.meetup.com/Techies-On-Bikes/) - #needsdescription
 * [Workfrom Portland](http://www.meetup.com/workfrom-portland/) - casual weekly coffeeshop meetups for remote workers (including techies and creatives)
