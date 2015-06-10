@@ -68,7 +68,7 @@ These don't appear to have future events scheduled in Portland.
 * [Computer-Human Interaction Forum of Oregon](http://www.chifoo.org/) - aka CHIFOO. #needsdescription
 * [Girl Develop It Portland](http://www.meetup.com/Girl-Develop-It-Portland) - language-agnostic meetup focused on learning to code 
 * [Hacks/Hackers Portland](http://www.meetup.com/HacksHackersPDX/) - #needsdescription
-* [MaptimePDX](http://maptime.io/portland/) - Monthly meetup for map enthusiasts of all levels
+* [MaptimePDX](http://maptime.io/portland/) - Monthly meetup for map enthusiasts of all levels; [@MaptimePDX](https://twitter.com/maptimepdx).
 * [New Relic Futuretalks](http://www.meetup.com/New-Relic-FutureTalks-PDX/) - speaker series by New Relic at the top of Big Pink
 * [PDX Python](http://www.meetup.com/pdxpython/) - includes a "programmer peer mentoring night" and monthly presentations
 * [PyLadies PDX](http://www.meetup.com/PyLadies-PDX/) - weekly meetups for women 
