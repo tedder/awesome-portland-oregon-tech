@@ -40,7 +40,7 @@ Cool tech/geek things in Portland Oregon.
 * [WebVisions Portland](http://www.webvisionsevent.com/portland/) (May 2016)
 * [XOXO Festival](http://2015.xoxofest.com/)
 * [Monitorama](http://monitorama.com)
-* [PuppetConf](http://puppetconf.com)
+* [PuppetConf](http://puppetconf.com) (Oct 5-9 2015)
 
 ### Previous events
 
