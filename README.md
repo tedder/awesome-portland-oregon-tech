@@ -66,13 +66,13 @@ These don't appear to have future events scheduled in Portland.
 * [Code for Portland](http://www.meetup.com/CodeForPortland/) - We're uniting hackers with the city, and working on projects that make a difference in our communities.
 * [Coffee w/ Co-Founders](http://www.meetup.com/Portland-Coffee-w-Co-Founders/) - Monthly meetup for area Co-Founders
 * [Computer-Human Interaction Forum of Oregon](http://www.chifoo.org/) - aka CHIFOO. #needsdescription
-* [Girl Develop It Portland](http://www.meetup.com/Girl-Develop-It-Portland) - language-agnostic meetup focused on learning to code 
+* [Girl Develop It Portland](http://www.meetup.com/Girl-Develop-It-Portland) - language-agnostic meetup focused on learning to code
 * [Hacks/Hackers Portland](http://www.meetup.com/HacksHackersPDX/) - #needsdescription
 * [MaptimePDX](http://maptime.io/portland/) - Monthly meetup for map enthusiasts of all levels; [@MaptimePDX](https://twitter.com/maptimepdx).
 * [New Relic Futuretalks](http://www.meetup.com/New-Relic-FutureTalks-PDX/) - speaker series by New Relic at the top of Big Pink
 * [PDX Python](http://www.meetup.com/pdxpython/) - includes a "programmer peer mentoring night" and monthly presentations
 * [PDX R](http://www.meetup.com/portland-r-user-group/) - monthly presentations
-* [PyLadies PDX](http://www.meetup.com/PyLadies-PDX/) - weekly meetups for women 
+* [PyLadies PDX](http://www.meetup.com/PyLadies-PDX/) - weekly meetups for women
 * [Techies on Bikes](http://www.meetup.com/Techies-On-Bikes/) - #needsdescription
 * [Workfrom Portland](http://www.meetup.com/workfrom-portland/) - casual weekly coffeeshop meetups for remote workers (including techies and creatives)
 * [Women Who Code Portland](http://www.meetup.com/Women-Who-Code-Portland/)
@@ -122,6 +122,8 @@ This section should contain names (and especially Twitter accounts) of Portlande
 
 <!-- link to JOBS PAGE, make sure there's an indication they are at least partially Portland-based, such as a 'contact' page listing their address -->
 
+* [Alma](http://www.getalma.com/about.html) - K-12’s first Holistic Student Engagement Platform.
+* [AltSource](https://www.altsrc.net/Careers)
 * [Elemental Technologies](http://www.elementaltechnologies.com/company/careers/open-positions) - Video conversion and streaming hardware, software, and cloud platform systems.
 * [Esri R&D Center](http://pdx.esri.com/)
 * [FlightStats](http://flightstats.com/company/corporate/careers/) - Aviation information and data services, mobile and web based flight tracking apps.
@@ -134,13 +136,17 @@ This section should contain names (and especially Twitter accounts) of Portlande
 * [Mozilla](https://www.mozilla.org/en-US/contact/spaces/portland/)
 * [New Relic](http://newrelic.com/about/contact-us)
 * [OnTheGo Platforms](https://www.otgplatforms.com/careers/) - Wearable computing platform systems.
+* [Opal](http://workwithopal.com/careers)
 * [Portland Incubator Experiment](http://www.piepdx.com/) - run by Wieden+Kennedy, startup accelerator. [OreognLive article](http://www.oregonlive.com/silicon-forest/index.ssf/2015/03/portland_incubator_experiment_5.html); [Wikipedia article](https://en.wikipedia.org/wiki/Portland_Incubator_Experiment).
 * [Panic](http://www.panic.com/blog/) - Software developer of fine Mac and iOS software like Coda, Transmit, and Prompt.
+* [Planet Argon](http://www.planetargon.com/careers)
 * [Plunk](http://whoisplunk.com) - Digital Marketing Agency. Mobile/Web Development Firm
 * [Puppet Labs](https://puppetlabs.com/contact)
-* [Quick Left](https://quickleft.com/) 
+* [Quick Left](https://quickleft.com/)
 * [Simple](https://www.simple.com/careers)
+* [Switchboard](https://switchboardhq.com/jobs/)
 * [Treehouse](https://teamtreehouse.com/jobs) - tech education, especially related to web/app development. [Oregonlive news article](http://www.oregonlive.com/silicon-forest/index.ssf/2013/12/portland_startup_treehouse_eli.html); [Wikipedia article](https://en.wikipedia.org/wiki/Treehouse_(company)).
+* [Uncorked Studios](https://uncorkedstudios.com/careers)
 * [Urban Airship](https://urbanairship.com/careers/)
 * [Vadio](http://www.vadio.com/jobs) - Online video services.
 
@@ -159,4 +165,3 @@ This section should contain names (and especially Twitter accounts) of Portlande
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
