@@ -9,7 +9,7 @@ Cool tech/geek things in Portland Oregon.
 ## Non-tech pointers to other lists
 
 * [Awesome](https://github.com/sindresorhus/awesome/blob/master/readme.md) - the canonical list of awesome lists
-* [Awesome Portland Oregon]() - nontech resources for locals and tourists
+* [Portland on Top Regional Repositories](https://github.com/lorey/top-regional-repositories/blob/master/cities/united-states-portland.md) - list of popular repositories in Portland, Oregon
 
 ## Blogs and forums
 
